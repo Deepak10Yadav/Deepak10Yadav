@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak10yadav" alt="deepak10yadav" /></a> </p>
 
-- 💬 Ask me about **python , sql , azure**
+- 💬 Ask me about **python , sql , azure , Django**
 
 - 📫 How to reach me **dy60146@gmail.com**
 
